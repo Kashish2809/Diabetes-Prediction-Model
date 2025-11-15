@@ -1,11 +1,13 @@
 # Diabetes-Prediction-Model
 
 **Diabetes Prediction Web App**
+
 This repository contains the source code for a simple machine learning web application that predicts the onset of diabetes based on a set of medical features.
 
 The app is built entirely in Python using Streamlit for the web interface and Scikit-learn for the machine learning model.
 
 **How It Works**
+
 The script _app.py_ performs the following operations:
 
 **Data Loading:** Loads the diabetes dataset _from diabetes.csv_ using Pandas.
